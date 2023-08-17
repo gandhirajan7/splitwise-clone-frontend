@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sharewise-stig": {
+      "hosting": {
+        "share-wise": [
+          "sharewise-stig"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sharewise-stig"
+  }
+}
